@@ -56,3 +56,16 @@ print(total,gst,g_total,"\n",sep="\n")
 message = "thank you! Visit again."
 message2 = "Press any key to continue"
 print(message,message2,sep="\n")
+
+
+
+
+
+
+
+battle_name = "BATTLE NAME : Battel of midway"
+lacation = "LACATION : Midway Atoll, Pacific Ocean"
+start_date = "DATE : 4 June 1942 "
+end_date = "DATE : 7 June 1942"
+duration = "DURATION DAYS : 4 days"
+involved  = "TOTAL INVOLVED COUNTRIES : 2"
