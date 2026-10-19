@@ -56,3 +56,7 @@ print(total,gst,g_total,"\n",sep="\n")
 message = "thank you! Visit again."
 message2 = "Press any key to continue"
 print(message,message2,sep="\n")
+
+
+item_2 = "Kreo Hive65 wired keyboard               |"
+item_3 = "Kreo Hawk wired mouse                    |"

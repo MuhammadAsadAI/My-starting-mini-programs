@@ -57,12 +57,6 @@ print (result,sep="\n")
 title_border6 = "-" *160
 print(title_border6,sep="\n")
 
-was_turning_point = True
-
-print("WAS TURNING POINT OF WAR:", was_turning_point)
-
-significance = "SIGNIFICANCE : Turning point of the Pacific War!                                                                                                  END OF REPORT."
-print  (significance,sep="\n")
 
 title_border7 = "=" *160
 print(title_border7,sep="\n")
@@ -72,24 +66,3 @@ print (pin_message,sep="\n")
 
 title_border8 = "=" *160
 print(title_border8,sep="\n")
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
