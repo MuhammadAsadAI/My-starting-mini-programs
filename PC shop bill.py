@@ -72,7 +72,7 @@ print("Final Total"," "*78,round(final_total,2))
 
 print ("_"*100)
 
-print("Authorized signatory"," "*61,"Thanks for visit")
+print("Authorized signatory"," "*62,"Thanks for visit")
 
 print ("="*100)
 

@@ -84,6 +84,6 @@ print ("_" *120)
 
 print (student_name_1,"passed :",(maths_marks_student_1 >= passing_marks and english_marks_student_1 >= passing_marks and urdu_marks_student_1 >= passing_marks)," First division....")
 print (student_name_2,"passed :",(maths_marks_student_2 >= passing_marks and english_marks_student_2 >= passing_marks and urdu_marks_student_2 >= passing_marks)," Second division....")
-print (student_name_3,"passed :", not (maths_marks_student_3 < passing_marks or english_marks_student_3 < passing_marks or urdu_marks_student_3 < passing_marks)," Try Next Year....")
+print (student_name_3,"passed :", not (maths_marks_student_3 >= passing_marks or english_marks_student_3 >= passing_marks or urdu_marks_student_3 >= passing_marks)," Try Next Year....")
 print (student_name_4,"passed :",(maths_marks_student_4 >= passing_marks and english_marks_student_4 >= passing_marks and urdu_marks_student_4 >= passing_marks)," First division....") 
 print ("=" *120)
