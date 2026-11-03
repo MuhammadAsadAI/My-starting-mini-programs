@@ -38,7 +38,7 @@ print ()
 print ("NAME OF ITEMS"," " *28,"QTY"," " *20,"RATE"," "*20,"AMOUNT")
 print ("_" *100)
 
-print (item_1," "*19,qty_item_1," "*20,rate_item_1," "*16,amount_item_1)
+print (item_1," "*20,qty_item_1," "*20,rate_item_1," "*16,amount_item_1)
 
 print (item_2," "*24,qty_item_2," "*22,rate_item_2," "*18,amount_item_2)
 
@@ -66,3 +66,4 @@ print ("_" *100)
 
 print ("Thank you!"," " *73,"Visit again....")
 print ("_" *100)
+
